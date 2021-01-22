@@ -6011,7 +6011,7 @@ label.error#captcha-error {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-	color: #212529;
+	color: #333333;
 	font-weight: 200;
 	letter-spacing: -.05em;
 	margin: 0;
