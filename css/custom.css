@@ -270,3 +270,11 @@ img{ max-width:100%;}
 .gallery_box li:nth-child(even) .box_data{ background:rgba(0,44,255,0.27) }
 .gallery_box .box_data{ position:absolute; top: 0; left: 0; right:0; bottom:0; color:#fff;}
 .gallery_box .box_data span{ position:absolute; top: 50%; transform: translateY(-50%); left:0 ; right:0; font-size:24px;}
+
+#anim-input, #anim-vm {
+    /* width: 30px; */
+    height: auto;
+    position: absolute;
+    /* right: -28px;
+    bottom: -26px; */
+}
