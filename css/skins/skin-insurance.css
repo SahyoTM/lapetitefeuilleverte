@@ -56,7 +56,7 @@ html .text-hover-quaternary:hover {
 
 html .text-color-dark,
 html .text-dark {
-	color: #333333 !important;
+	color: #202e22 !important;
 	font-weight: 400;
 }
 
@@ -856,13 +856,13 @@ html .show > .btn-primary-scale-2.dropdown-toggle {
 
 html .btn-secondary {
 	background-color: transparent;
-	border-color: #333333 #333333 #333333;
-	color: #333333;
+	border-color: #202e22 #202e22 #202e22;
+	color: #202e22;
 }
 
 html .btn-secondary:hover,
 html .btn-secondary.hover {
-	background-color: #333333;
+	background-color: #202e22;
 	border-color: white;
 	color: #FFF;
 }
@@ -5768,7 +5768,7 @@ html.boxed .body {
 
 .custom-bullets-style-1 .tp-bullet:hover,
 .custom-bullets-style-1 .tp-bullet.selected {
-	background: #333333;
+	background: #202e22;
 }
 
 .custom-link-style-1:hover,

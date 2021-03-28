@@ -106,14 +106,6 @@
 	border-top: 0;
 }
 
-.custom-primary-font {
-	font-family: "Roboto Slab", serif !important;
-}
-
-.custom-bg-color-1 {
-	background-color: #132135 !important;
-}
-
 .custom-link-style-1 {
 	color: #1d2127 !important;
 	transition: ease color 300ms;

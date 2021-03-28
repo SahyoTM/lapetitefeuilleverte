@@ -13,7 +13,7 @@ html {
 body {
 	background-color: #FFF;
 	color: #777;
-	font-family: "Open Sans", Arial, sans-serif;
+	font-family: "Spartan", Arial, sans-serif !important;
 	font-size: 14px;
 	line-height: 26px;
 	margin: 0;
